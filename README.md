@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hari</h1>
 <h3 align="center">A passionate Integrator developer from India</h3>
 
-<h3 align="center">- 👨‍💻 All of my projects are available at [https://github.com/hariHp1532](https://github.com/hariHp1532)</h3>
+<h6 align="center">- 👨‍💻 All of my projects are available at [https://github.com/hariHp1532](https://github.com/hariHp1532)</h6>
 
-<h3 align="center">- 📫 How to reach me **hari.s@isteer.com**</h3>
+<h6 align="center">- 📫 How to reach me **hari.s@isteer.com**</h6>
 
-<h3 align="center">- 📄 Know about my experiences [https://hp1532.github.io/](https://hp1532.github.io/)</h3>
+<h6 align="center">- 📄 Know about my experiences [https://hp1532.github.io/](https://hp1532.github.io/)</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harihp1532&label=Profile%20views&color=0e75b6&style=flat" alt="harihp1532" /> </p>
 
