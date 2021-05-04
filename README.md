@@ -7,7 +7,7 @@
 
 <h6 align="left">- 📄 Know about my experiences [https://hp1532.github.io/](https://hp1532.github.io/)</h6><br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harihp1532&label=Profile%20views&color=0e75b6&style=flat" alt="harihp1532" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harihp1532&label=Profile%20views&color=0e75b6&style=flat" alt="harihp1532" /> </p><br><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harihp1532" alt="harihp1532" /></a> </p>
 
