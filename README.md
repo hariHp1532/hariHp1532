@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hari</h1>
-<h3 align="center">A passionate Integrator developer from India</h3>
+<h3 align="center">A passionate Integrator from India</h3>
 
 <h6 align="left">- 👨‍💻 All of my projects are available at [https://github.com/hariHp1532]</h6>
 
-<h6 align="left">- 📫 How to reach me <a>hari.s@isteer.com</a></h6>
+<h6 align="left">- 📫 How to reach me <a><i class="fa fa-envelope-o" aria-hidden="true"></i>hari.s@isteer.com</a></h6> 
 
 <h6 align="left">- 📄 Know about my experiences (https://hp1532.github.io/)</h6><br><br>
 
