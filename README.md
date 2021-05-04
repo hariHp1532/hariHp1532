@@ -3,7 +3,7 @@
 
 <h6 align="left">- 👨‍💻 All of my projects are available at [https://github.com/hariHp1532](https://github.com/hariHp1532)</h6>
 
-<h6 align="left">- 📫 How to reach me **hari.s@isteer.com**</h6>
+<h6 align="left">- 📫 How to reach me <a>hari.s@isteer.com</a></h6>
 
 <h6 align="left">- 📄 Know about my experiences [https://hp1532.github.io/](https://hp1532.github.io/)</h6><br><br>
 
