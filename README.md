@@ -1,3 +1,4 @@
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQFlfWSEE7AhBQ/profile-displaybackgroundimage-shrink_350_1400/0/1601653283479?e=1625702400&v=beta&t=AdrlY2N0vmmxK9gHhk2jb_SJFOZ4vjE1_txrjqfqR4E)](https://hp1532.github.io/)
 <h1 align="center">Hi 👋, I'm Hari</h1>
 <h3 align="center">A passionate Integrator from India</h3>
 
