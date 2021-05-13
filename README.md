@@ -33,13 +33,6 @@
 
 <br><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harihp1532&show_icons=true&count_private=true&theme=dark" alt="harihp1532" /></a> </p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harihp1532&show_icons=true&locale=en&layout=compact&theme=dark" alt="harihp1532" /></p><br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harihp1532&show_icons=true&locale=en&theme=dark" alt="harihp1532" /><br/>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harihp1532&heme=dark" alt="harihp1532" /></p><br/>
 
 <br><br>
 
