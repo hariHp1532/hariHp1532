@@ -4,9 +4,11 @@
 
 <p align='center'>
   👨‍💻 All of my projects are available at [https://github.com/hariHp1532]
-  
+</p>
+<p align='center'>
   📫 How to reach me: <a href='mailto:hari.s@isteer.com'>hari.s@isteer.com</a>
-  
+</p>
+<p align='center'>
   📄 Know about my experiences (https://hp1532.github.io/)
 </p>
 
