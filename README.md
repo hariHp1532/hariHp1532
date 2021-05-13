@@ -26,7 +26,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=harihp1532&show_icons=true&count_private=true&theme=dark" width="350"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harihp1532&show_icons=true&locale=en&layout=compact&theme=dark" alt="harihp1532"  width="350" /></a>&nbsp;&nbsp;
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harihp1532&show_icons=true&locale=en&layout=compact&theme=dark" alt="harihp1532" width="350" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harihp1532&show_icons=true&count_private=true&theme=dark" alt="harihp1532" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harihp1532&show_icons=true&count_private=true&locale=en&layout=compact&theme=dark" alt="harihp1532" width="350" alt="harihp1532" /></a>
 </p>
 
 
