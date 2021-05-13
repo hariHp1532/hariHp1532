@@ -18,6 +18,7 @@
   <a href="https://instagram.com/hp.1532">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=harihp1532&label=Profile%20views&color=0e75b6&style=flat" alt="harihp1532" /> </p>&nbsp;&nbsp;
   
 </p>
 
@@ -27,7 +28,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harihp1532&label=Profile%20views&color=0e75b6&style=flat" alt="harihp1532" /> </p><br><br>
+<br><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harihp1532" alt="harihp1532" /></a> </p><br><br>
 
