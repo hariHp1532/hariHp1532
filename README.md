@@ -2,13 +2,11 @@
 <h1 align="center">Hi 👋, I'm Hari</h1>
 <h3 align="center">A passionate Integrator from India</h3>
 
-<h6 align="left">- 👨‍💻 All of my projects are available at [https://github.com/hariHp1532]</h6>
-
-
 <p align='center'>
+  👨‍💻 All of my projects are available at [https://github.com/hariHp1532]
+  
   📫 How to reach me: <a href='mailto:hari.s@isteer.com'>hari.s@isteer.com</a>
-</p>
-<p align='center'>
+  
   📄 Know about my experiences (https://hp1532.github.io/)
 </p>
 
