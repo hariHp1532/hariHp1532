@@ -74,9 +74,4 @@
 📆 2017 - 2019\
 📍 **CrescoWorks** - Coimbatore, India
 
-<img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
-<img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg?logo=postgresql&logoColor=white"/>
-<img align="right"  src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg?logo=springio&logoColor=white"/>
-
-
 </details>
