@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Hari</h1>
 <h3 align="center">A passionate Integrator from India</h3>
 
+
+
+<br><br>
 <p align='center'>
   👨‍💻 All of my projects are available at [https://github.com/hariHp1532]
 </p>
@@ -14,18 +17,20 @@
 
 
 
-<p align='center'>
-  
+<br><br>
+<p align='center'>  
   <a href="https://www.linkedin.com/in/hari-s-3107bb147/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/hp.1532">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=harihp1532&label=Profile%20views&color=0e75b6&style=flat" alt="harihp1532" />&nbsp;&nbsp;
-  
+  <img src="https://komarev.com/ghpvc/?username=harihp1532&label=Profile%20views&color=0e75b6&style=flat" alt="harihp1532" />&nbsp;&nbsp;  
 </p>
 
+
+
+<br><br>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=harihp1532&show_icons=true&count_private=true&theme=dark" width="350"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harihp1532&show_icons=true&locale=en&layout=compact&theme=dark" alt="harihp1532"  width="350" /></a>&nbsp;&nbsp;
