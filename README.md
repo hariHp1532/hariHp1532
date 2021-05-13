@@ -23,7 +23,8 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=harihp1532&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=harihp1532&show_icons=true&count_private=true&theme=dark" width="350"></a>&nbsp;&nbsp;
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harihp1532&show_icons=true&count_private=true&theme=dark" alt="harihp1532" /></a>
 </p>
 
 
