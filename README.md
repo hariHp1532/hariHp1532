@@ -60,8 +60,6 @@
 
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
-
 - 👨‍💻 **Trainee Engineer**\
 📆 2021 - Moment\
 📍 **Isteer Technologies** - Bengaluru, India
