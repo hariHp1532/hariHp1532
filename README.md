@@ -65,7 +65,8 @@
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" /> etc..
+<img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+
 - 👨‍💻 **Trainee Engineer**\
 📆 2021 - Moment\
 📍 **Isteer Technologies** - Bengaluru, India
