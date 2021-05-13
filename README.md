@@ -60,15 +60,16 @@
 
 ## Experience
 
-- 👨‍💻 **Trainee Engineer**\
-📆 2021 - Moment\
-📍 **Isteer Technologies** - Bengaluru, India
 
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" /> etc..
+- 👨‍💻 **Trainee Engineer**\
+📆 2021 - Moment\
+📍 **Isteer Technologies** - Bengaluru, India
+
 
 - 👨‍💻 **Full Stack Developer**\
 📆 2017 - 2019\
