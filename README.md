@@ -14,7 +14,10 @@
   📫 How to reach me: <a href='mailto:hari.s@isteer.com'>hari.s@isteer.com</a>
 </p>
 <p align='center'>
-  📄 Know about my experiences (https://hp1532.github.io/)
+  📄 Know about my experiences: (https://hp1532.github.io/)
+</p>
+<p align='center'>
+  📄 Mine Standalone Product: (https://harihp1532.github.io/cyberfest20/)
 </p>
 
 
